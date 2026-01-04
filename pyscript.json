@@ -1,3 +1,4 @@
 {
-    "packages":[]
+    "packages":["pyscript","sqlite3"],
+    "python_version":"3.11"
 }
